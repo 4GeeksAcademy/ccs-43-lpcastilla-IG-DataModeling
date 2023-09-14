@@ -52,5 +52,3 @@ except Exception as e:
     print("There was a problem genering the diagram")
     raise e
 
- ##  person_id = Column(Integer, ForeignKey('person.id'))
- ##   person = relationship(Person)
